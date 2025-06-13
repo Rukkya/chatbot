@@ -27,20 +27,6 @@ sudo apt install python3-dev build-essential
 python3 --version
 pip3 --version
 ```
-
-### For CentOS/RHEL/Fedora:
-```bash
-# For CentOS/RHEL 8+
-sudo dnf install python3 python3-pip python3-devel gcc
-
-# For older CentOS/RHEL versions
-sudo yum install python3 python3-pip python3-devel gcc
-
-# Verify installation
-python3 --version
-pip3 --version
-```
-
 ## Step 2: Create Project Directory and Virtual Environment
 
 ```bash
